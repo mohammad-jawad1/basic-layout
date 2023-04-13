@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    border: 2px solid #B5B5B5;
+    height: 100vh;
+    margin: 5px;
+    background-color: #ffffff;
+}
+
+.header_first {
+    text-align: center;
+    border: 2px solid #B5B5B5;
+    margin: 5px;
+    background-color: #f6f6f6;
+}
+
+.header_nav {
+    border: 2px solid #B5B5B5;
+    margin: 10px 0px;
+    background-color: #D9E8FB;
+    margin: 5px;
+}
+
+.continer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right {
+    border: 2px solid #B5B5B5;
+    width: 70%;
+
+    background-color: #D5E8D4;
+    margin: 5px;
+    height: 400px;
+}
+
+.right_header {
+    background-color: #f6f6f6;
+    border: 2px solid #B5B5B5;
+    padding: 5px;
+    margin: 5px;
+}
+
+.right_art {
+    background-color: #F8CFCB;
+    height: 80%;
+    margin-top: 8px;
+    border: 2px solid #B5B5B5;
+    margin: 5px;
+
+}
+
+.r_a_header {
+    margin-top: 5px;
+    border: 2px solid #B5B5B5;
+    background-color: #f6f6f6;
+    margin: 5px;
+
+}
+
+.first_p {
+    margin-top: 5px;
+    border: 2px solid #B5B5B5;
+    background-color: #E2D3EA;
+    height: 20%;
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.secound_p {
+    border: 2px solid #B5B5B5;
+    background-color: #E2D3EA;
+    width: 50%;
+    height: 100px;
+    align-items: center;
+    padding: 35px;
+    margin: 5px;
+}
+
+aside {
+    border: 2px solid #B5B5B5;
+    background-color: #FFF3CD;
+    width: 50%;
+    height: 100px;
+    align-items: center;
+    padding: 35px;
+    margin: 5px;
+}
+
+.first_footer {
+    border: 2px solid #B5B5B5;
+    background-color: #CDEB8B;
+    align-items: center;
+    margin: 15px 5px 5px 5px;
+    height: 50px;
+    padding: 15px;
+}
+
+.left {
+    border: 2px solid #B5B5B5;
+    background-color: #ffe5cee5;
+    width: 30%;
+    margin: 5px;
+    background-color: #FFF3CD;
+    height: 400px;
+}
+
+.left_header {
+    border: 2px solid #B5B5B5;
+    background-color: #f6f6f6;
+    margin: 5px;
+    height: 40px;
+    padding: 5px;
+
+
+}
+
+.left_nav {
+    height: 260px;
+    border: 2px solid #B5B5B5;
+    background-color: #D9E8FB;
+    margin: 20px 5px 5px 5px;
+    padding-top: 100px;
+    
+}
+
+.secound_footer {
+    border: 2px solid #B5B5B5;
+    background-color: #CDEB8B;
+    margin: 10px;
+    height: 55px;
+    padding: 5px;
+}
